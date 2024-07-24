@@ -42,9 +42,6 @@ export function Homepage() {
           <Link href="#products" className="text-sm font-medium hover:underline underline-offset-4" prefetch={false}>
             Products
           </Link>
-          <Link href="#about" className="text-sm font-medium hover:underline underline-offset-4" prefetch={false}>
-            About
-          </Link>
           <Link
             href="#"
             className="inline-flex items-center gap-2 text-sm font-medium hover:underline underline-offset-4"
